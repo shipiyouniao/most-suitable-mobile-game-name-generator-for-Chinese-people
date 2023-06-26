@@ -3,7 +3,7 @@ project (cpp_test)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SDL2_DIR D:/CLibrary/SDL2-2.26.0-allinone/x86_64-w64-mingw32)
+set(SDL2_DIR lib/x86_64-w64-mingw32)
 
 add_executable(cpp_test main.cpp)
 
