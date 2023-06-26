@@ -1,0 +1,6 @@
+# C++项目的.gitignore文件
+
+*/.vscode/
+*/.idea/
+*/cmake-build-debug-mingw/
+*/cmake-build-debug/
